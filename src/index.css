@@ -1,0 +1,33 @@
+.game {
+   
+    margin: auto;
+   
+    border: 3px solid green;
+  
+   margin-top:50px;
+    height:500px;
+    width:400px;
+   text-align: center;
+   
+}
+.game-board {
+    height: 200px;
+    width: 200px;
+    text-align: center;
+    display: inline-block;
+    margin-top:70px;
+    
+}
+.board-row{
+
+    display: flex;
+}
+.square{
+    width:80px;
+    height: 80px;
+    font-size:40px;
+}
+
+.status{
+    font-size:40px;
+}
